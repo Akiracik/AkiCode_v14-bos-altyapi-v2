@@ -1,0 +1,14 @@
+{
+  "name": "akicode-v14-bos-altyapi-v2",
+  "version": "0.0.1",
+  "description": "AkiCode v14 boş altyapı v2",
+  "main": "akicode.js",
+  "scripts": {
+    "start": "node akicode.js"
+  },
+  "dependencies": {
+    "akicode-v14-bos-altyapi-v2": "file:",
+    "discord-bot": "file:",
+    "discord.js": "^14.15.3"
+  }
+}
